@@ -1,8 +1,16 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vsolix/vsolix/main/banner.png" alt="Solixx Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Solixx</h1>
 <h3 align="center">A passionate frontend developer from UAE</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vsolixx&label=Profile%20views&color=0e75b6&style=flat" alt="vsolixx" />
+  <img src="https://komarev.com/ghpvc/?username=vsolix&label=Profile%20views&color=0e75b6&style=flat" alt="vsolix" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vsolix/vsolix/main/kyubey.gif" alt="Kyubey" width="150">
 </p>
 
 ---
@@ -10,7 +18,7 @@
 ### about
 Passionate frontend developer and creator building modern web experiences, clean user interfaces, and interactive applications.
 
-🌐 [GitHub Profile](https://github.com/vsolixx) • 💬 [Discord](https://discord.gg/pii)
+🌐 [GitHub Profile](https://github.com/vsolix) • 💬 [Discord](https://discord.gg/pii)
 
 ---
 
@@ -42,16 +50,16 @@ Passionate frontend developer and creator building modern web experiences, clean
 ### achievements & stats
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vsolixx" alt="vsolixx" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vsolix" alt="vsolix" /></a>
 </p>
 
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=vsolixx&show_icons=true&locale=en" alt="vsolixx stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=vsolix&show_icons=true&locale=en" alt="vsolix stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vsolixx&show_icons=true&locale=en&layout=compact" alt="vsolixx top langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vsolix&show_icons=true&locale=en&layout=compact" alt="vsolix top langs" />
     </td>
   </tr>
 </table>
